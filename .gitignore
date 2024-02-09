@@ -1,0 +1,4 @@
+secrets.txt
+
+#ignore all log files
+*.log
